@@ -47,8 +47,8 @@ clues would be Fermi Pico.'''.format(NUM_DIGITS))
                 break  # They're correct, so break out of this loop.
             if numGuesses > MAX_GUESSES:
                 print('You ran out of guesses.')
-                print('This answer was {}.'.format(secretNum))
-            
+                print('The answer was {}.'.format(secretNum))
+
         # Ask player if they want to play again.
         print('Do you want to play again? (yes or no)')
         if not input('> ').lower().startswith('y'):
