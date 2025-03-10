@@ -12,3 +12,7 @@ _Use Python's datetime module._
 ### **Project 3, Bitmap Message:** Display a message on the screen configured by a 2D bitmap image.
 
 _Work with multiline strings._
+
+### **Project 4, Blackjack:** A classic card game played against an AI dealer.
+
+_Learn about Unicode characters and code points._
