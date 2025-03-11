@@ -16,3 +16,7 @@ _Work with multiline strings._
 ### **Project 4, Blackjack:** A classic card game played against an AI dealer.
 
 _Learn about Unicode characters and code points._
+
+### **Project 5, Bouncing DVD Logo:** Simulates the colorful bouncing DVD logo of decades past.
+
+_Work with coordinates and colorful text._
