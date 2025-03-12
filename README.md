@@ -20,3 +20,7 @@ _Learn about Unicode characters and code points._
 ### **Project 5, Bouncing DVD Logo:** Simulates the colorful bouncing DVD logo of decades past.
 
 _Work with coordinates and colorful text._
+
+### **Project 6, Caesar Cipher:** A simple encryption scheme used thousands of years ago.
+
+_Convert between letters and numbers to perform math on text._
