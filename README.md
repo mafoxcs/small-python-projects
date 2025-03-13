@@ -24,3 +24,7 @@ _Work with coordinates and colorful text._
 ### **Project 6, Caesar Cipher:** A simple encryption scheme used thousands of years ago.
 
 _Convert between letters and numbers to perform math on text._
+
+### **Project 7, Caesar Hacker:** A program to decrypt Caesar cipher messages without the encryption key.
+
+_Implement a brute-force cryptanalysis algorithm._
