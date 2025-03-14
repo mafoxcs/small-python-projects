@@ -28,3 +28,7 @@ _Convert between letters and numbers to perform math on text._
 ### **Project 7, Caesar Hacker:** A program to decrypt Caesar cipher messages without the encryption key.
 
 _Implement a brute-force cryptanalysis algorithm._
+
+### **Project 8, Calendar Maker:** Create calendar pages for a given year and month.
+
+_Use Python's datetime module and the timedelta data type._
