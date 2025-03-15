@@ -32,3 +32,7 @@ _Implement a brute-force cryptanalysis algorithm._
 ### **Project 8, Calendar Maker:** Create calendar pages for a given year and month.
 
 _Use Python's datetime module and the timedelta data type._
+
+### **Project 9, Carrot in a Box:** A silly bluffing game between two players.
+
+_Create ASCII art._
