@@ -36,3 +36,7 @@ _Use Python's datetime module and the timedelta data type._
 ### **Project 9, Carrot in a Box:** A silly bluffing game between two players.
 
 _Create ASCII art._
+
+### **Project 10, Cho-Han:** A gambling dice game from feudal Japan.
+
+_Practice using random numbers and dictionary data structures._
