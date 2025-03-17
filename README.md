@@ -40,3 +40,7 @@ _Create ASCII art._
 ### **Project 10, Cho-Han:** A gambling dice game from feudal Japan.
 
 _Practice using random numbers and dictionary data structures._
+
+### **Project 11, Clickbait Headline Generator:** A humorous headline generator for your content farm.
+
+_Practice string manipulation and text generation._
