@@ -44,3 +44,7 @@ _Practice using random numbers and dictionary data structures._
 ### **Project 11, Clickbait Headline Generator:** A humorous headline generator for your content farm.
 
 _Practice string manipulation and text generation._
+
+### **Project 12, Collatz Sequence:** Explore the simplest impossible conjecture in mathematics.
+
+_Learn about the modulus operator._
