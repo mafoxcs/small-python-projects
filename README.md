@@ -48,3 +48,7 @@ _Practice string manipulation and text generation._
 ### **Project 12, Collatz Sequence:** Explore the simplest impossible conjecture in mathematics.
 
 _Learn about the modulus operator._
+
+### **Project 13, Conway's Game of Life:** The classic cellular automata whose simple rules produce complex emergent behavior.
+
+_Use dictionary data structures and screen coordinates._
