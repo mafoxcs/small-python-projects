@@ -52,3 +52,7 @@ _Learn about the modulus operator._
 ### **Project 13, Conway's Game of Life:** The classic cellular automata whose simple rules produce complex emergent behavior.
 
 _Use dictionary data structures and screen coordinates._
+
+### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
+
+_Create modules for use in other programs._
