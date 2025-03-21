@@ -53,6 +53,10 @@ _Learn about the modulus operator._
 
 _Use dictionary data structures and screen coordinates._
 
+### **Project 14, Countdown:** A countdown timer with a seven-segment display.
+
+_Practice importing modules you create._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
