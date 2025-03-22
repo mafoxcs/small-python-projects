@@ -57,6 +57,10 @@ _Use dictionary data structures and screen coordinates._
 
 _Practice importing modules you create._
 
+### **Project 15, Countdown:** A tunnel animation that descends endlessly into the earth.
+
+_Using string replication and simple math._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
