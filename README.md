@@ -57,9 +57,13 @@ _Use dictionary data structures and screen coordinates._
 
 _Practice importing modules you create._
 
-### **Project 15, Countdown:** A tunnel animation that descends endlessly into the earth.
+### **Project 15, Deep Cave:** A tunnel animation that descends endlessly into the earth.
 
 _Using string replication and simple math._
+
+### **Project 16, Diamonds:** An algorithm for drawing diamonds of various sizes .
+
+_Practice your pattern recognition skills to create drawing algorithms._
 
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
