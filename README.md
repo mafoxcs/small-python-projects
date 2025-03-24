@@ -69,7 +69,6 @@ _Practice your pattern recognition skills to create drawing algorithms._
 
 _Using dictionary data structures for screen coordinates._
 
-
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
