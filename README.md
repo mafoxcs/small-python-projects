@@ -61,9 +61,14 @@ _Practice importing modules you create._
 
 _Using string replication and simple math._
 
-### **Project 16, Diamonds:** An algorithm for drawing diamonds of various sizes .
+### **Project 16, Diamonds:** An algorithm for drawing diamonds of various sizes.
 
 _Practice your pattern recognition skills to create drawing algorithms._
+
+### **Project 17, Dice Math:** A visual dice-rolling math game.
+
+_Using dictionary data structures for screen coordinates._
+
 
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
