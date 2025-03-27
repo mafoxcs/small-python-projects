@@ -77,6 +77,10 @@ _Parse text to identify key strings._
 
 _Generate numbers that match information from the datetime module._
 
+### **Project 20, Digital Stream:** A scrolling screensaver that resembles The Matrix.
+
+_Experiment with different animation speeds._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
