@@ -81,6 +81,10 @@ _Generate numbers that match information from the datetime module._
 
 _Experiment with different animation speeds._
 
+### **Project 21, DNA Visualization:** An endless ASCII-art double helix that demonstrates the structure of DNA.
+
+_Work with string templates and randomly generated text._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
