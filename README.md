@@ -85,6 +85,10 @@ _Experiment with different animation speeds._
 
 _Work with string templates and randomly generated text._
 
+### **Project 22, Ducklings:** Mix and match strings to create a variety of ASCII-art ducks.
+
+_Use object-oriented programming to create a data model for duck drawings._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
