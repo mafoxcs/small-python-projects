@@ -89,6 +89,10 @@ _Work with string templates and randomly generated text._
 
 _Use object-oriented programming to create a data model for duck drawings._
 
+### **Project 23, Etching Drawer:** Move the cursor to create line drawings.
+
+_Work with screen coordinates and relative directional movements._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
