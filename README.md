@@ -93,6 +93,10 @@ _Use object-oriented programming to create a data model for duck drawings._
 
 _Work with screen coordinates and relative directional movements._
 
+### **Project 24, Factor Finder:** Find all the multiplicative factors of a number.
+
+_Use the modulus operator andd Python's math module._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
