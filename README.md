@@ -97,6 +97,10 @@ _Work with screen coordinates and relative directional movements._
 
 _Use the modulus operator andd Python's math module._
 
+### **Project 25, Fast Draw:** Test your reflexes to see if you're the fastest keyboard in the West.
+
+_Learn about the keyboard buffer._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
