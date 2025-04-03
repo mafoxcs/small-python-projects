@@ -101,6 +101,10 @@ _Use the modulus operator andd Python's math module._
 
 _Learn about the keyboard buffer._
 
+### **Project 26, Fibonacci:** Generate numbers in the famous Fibonacci sequence.
+
+_Implement a rudimentary mathematics algorithm._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
