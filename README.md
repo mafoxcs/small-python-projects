@@ -109,6 +109,10 @@ _Implement a rudimentary mathematics algorithm._
 
 _Use screen coordinates, text colors, and data structures._
 
+### **Project 28, Flooder:** Attempt to fill the entire puzzle board with one color.
+
+_Implement the flood fill algorithm._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
