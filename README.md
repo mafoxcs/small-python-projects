@@ -105,6 +105,10 @@ _Learn about the keyboard buffer._
 
 _Implement a rudimentary mathematics algorithm._
 
+### **Project 27, Fish Tank:** A colorful, animated ASCII-art fish tank.
+
+_Use screen coordinates, text colors, and data structures._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
