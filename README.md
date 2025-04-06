@@ -113,6 +113,10 @@ _Use screen coordinates, text colors, and data structures._
 
 _Implement the flood fill algorithm._
 
+### **Project 29, Forest Fire Sim:** Simulate the spread of wildfires through a forest.
+
+_Create a simulation with adjustable parameters._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
