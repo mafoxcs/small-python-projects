@@ -117,6 +117,10 @@ _Implement the flood fill algorithm._
 
 _Create a simulation with adjustable parameters._
 
+### **Project 30, Four in a Row:** A board game where two players try to connect four tiles in a row.
+
+_Create a data structure that mimics gravity._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
