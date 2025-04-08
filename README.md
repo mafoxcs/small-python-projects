@@ -121,6 +121,10 @@ _Create a simulation with adjustable parameters._
 
 _Create a data structure that mimics gravity._
 
+### **Project 31, Guess the Number:** The classic number guessing game.
+
+_Program basic concepts for beginners._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
