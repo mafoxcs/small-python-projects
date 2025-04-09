@@ -125,6 +125,10 @@ _Create a data structure that mimics gravity._
 
 _Program basic concepts for beginners._
 
+### **Project 32, Gullible:** A humorous program to keep gullible people busy for hours.
+
+_Use input validation and loops._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
