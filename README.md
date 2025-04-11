@@ -129,6 +129,10 @@ _Program basic concepts for beginners._
 
 _Use input validation and loops._
 
+### **Project 33, Hacking Minigame:** Deduce a password based on clues.
+
+_Add cosmetic features to make a basic game more interesting._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
