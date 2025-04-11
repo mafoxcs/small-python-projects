@@ -133,6 +133,10 @@ _Use input validation and loops._
 
 _Add cosmetic features to make a basic game more interesting._
 
+### **Project 34, Hangman and Guillotine:** The classic word guessing game.
+
+_Use string manipulation and ASCII art._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
