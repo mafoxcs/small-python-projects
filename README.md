@@ -141,6 +141,10 @@ _Use string manipulation and ASCII art._
 
 _Use loops to make repeating text patterns._
 
+### **Project 36, Hourglass:** A simple physics engine for falling sand.
+
+_Simulate gravity and use collision detection._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
