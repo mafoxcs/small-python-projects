@@ -145,6 +145,10 @@ _Use loops to make repeating text patterns._
 
 _Simulate gravity and use collision detection._
 
+### **Project 37, Hungry Robots:** Avoid killer robots in a maze.
+
+_Create a simple AI for robot movements._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
