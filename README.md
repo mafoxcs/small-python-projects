@@ -149,6 +149,10 @@ _Simulate gravity and use collision detection._
 
 _Create a simple AI for robot movements._
 
+### **Project 38, J'Accuse!:** A detective game to determine liars and truth-tellers.
+
+_Use data structures to generate relationships between suspects, places, and item clues._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
