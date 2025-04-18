@@ -153,6 +153,10 @@ _Create a simple AI for robot movements._
 
 _Use data structures to generate relationships between suspects, places, and item clues._
 
+### **Project 39, Langton's Ant:** A cellular automata whose ants move according to simple rules.
+
+_Explore how simple rules create complex graphical patterns._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
