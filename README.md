@@ -157,9 +157,13 @@ _Use data structures to generate relationships between suspects, places, and ite
 
 _Explore how simple rules create complex graphical patterns._
 
-### **Project 40, Leetspeak:** Translate English messages into l33t5p34]<>.
+### **Project 40, Leetspeak:** Translate English messages into l33t5p34]<.
 
 _Use text parsing and string manipulation._
+
+### **Project 41, Lucky Stars:** Push-your-luck dice game.
+
+_Practice ASCII art and probability._
 
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
