@@ -165,6 +165,10 @@ _Use text parsing and string manipulation._
 
 _Practice ASCII art and probability._
 
+### **Project 42, Magic Fortune Ball:** A program to answer your yes/no questions about the future.
+
+_Add cosmetic features to make basic text appear more interesting._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
