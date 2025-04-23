@@ -173,6 +173,10 @@ _Add cosmetic features to make basic text appear more interesting._
 
 _Use ASCII art and string templates to draw a board game._
 
+### **Project 44, Maze Runner 2D:** Try to escape a maze.
+
+_Read maze data from text files._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
