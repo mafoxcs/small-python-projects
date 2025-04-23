@@ -169,6 +169,10 @@ _Practice ASCII art and probability._
 
 _Add cosmetic features to make basic text appear more interesting._
 
+### **Project 43, Mancala:** The ancient two-player board game from Mesopotamia.
+
+_Use ASCII art and string templates to draw a board game._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
