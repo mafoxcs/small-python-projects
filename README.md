@@ -177,6 +177,10 @@ _Use ASCII art and string templates to draw a board game._
 
 _Read maze data from text files._
 
+### **Project 45, Maze Runner 3D:** Try to escape a maze... in 3D!
+
+_Modify multiline strings to display a 3D view._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
