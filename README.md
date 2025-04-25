@@ -181,6 +181,10 @@ _Read maze data from text files._
 
 _Modify multiline strings to display a 3D view._
 
+### **Project 46, Million Dice Roll Statistics Simulator:** Explore the probability results of rolling a set of dice one million times.
+
+_Learn how computers crunch large quantities of numbers._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
