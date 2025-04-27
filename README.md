@@ -185,6 +185,10 @@ _Modify multiline strings to display a 3D view._
 
 _Learn how computers crunch large quantities of numbers._
 
+### **Project 47, Mondrian Art Generator:** Create geometric drawings in the style of Piet Mondrian.
+
+_Implement an art-generating algorithm._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
