@@ -189,6 +189,10 @@ _Learn how computers crunch large quantities of numbers._
 
 _Implement an art-generating algorithm._
 
+### **Project 48, Monty Hall Problem:** A simulation of the Monty Hall game show problem.
+
+_Examine probability with ASCII-art goats._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
