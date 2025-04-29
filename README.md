@@ -193,6 +193,10 @@ _Implement an art-generating algorithm._
 
 _Examine probability with ASCII-art goats._
 
+### **Project 49, Multiplication Table:** Display the multiplication table up to 12 x 12.
+
+_Practice spacing text._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
