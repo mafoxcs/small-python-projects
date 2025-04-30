@@ -197,6 +197,10 @@ _Examine probability with ASCII-art goats._
 
 _Practice spacing text._
 
+### **Project 50, Ninety-Nine Bottles:** Display the lyrics to a repetitve song..
+
+_Use loops and string templates to produce text._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
