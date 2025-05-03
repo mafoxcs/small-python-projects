@@ -209,6 +209,10 @@ _Manipulate strings to introduce distortions._
 
 _Use Python's number conversion functions._
 
+### **Project 53, Periodic Table of the Elements:** An interactive database of chemical elements.
+
+_Parse CSV files to load data into a program._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
