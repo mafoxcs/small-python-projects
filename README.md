@@ -213,6 +213,10 @@ _Use Python's number conversion functions._
 
 _Parse CSV files to load data into a program._
 
+### **Project 54, Pig Latin:** Translates English messages into Igpay Atinlay.
+
+_Use text parsing and string manipulation._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
