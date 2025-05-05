@@ -217,6 +217,10 @@ _Parse CSV files to load data into a program._
 
 _Use text parsing and string manipulation._
 
+### **Project 55, Powerball Lottery:** Simulate losing at the lottery thousands of times.
+
+_Explore probability using random numbers._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
