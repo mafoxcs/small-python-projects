@@ -221,6 +221,10 @@ _Use text parsing and string manipulation._
 
 _Explore probability using random numbers._
 
+### **Project 56, Prime Numbers:** Calculate prime numbers.
+
+_Learn math concepts and use Python's math module._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
