@@ -225,6 +225,10 @@ _Explore probability using random numbers._
 
 _Learn math concepts and use Python's math module._
 
+### **Project 57, Progress Bar:** A sample progress bar animation to use in other programs.
+
+_Use the backspace-printing technique to create animations._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
