@@ -229,6 +229,10 @@ _Learn math concepts and use Python's math module._
 
 _Use the backspace-printing technique to create animations._
 
+### **Project 58, Rainbow:** A simple rainbow animation.
+
+_Create animations for beginners._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
