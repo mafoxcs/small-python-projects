@@ -233,6 +233,10 @@ _Use the backspace-printing technique to create animations._
 
 _Create animations for beginners._
 
+### **Project 59, Rock Paper Scissors:** The classic hand game for two players.
+
+_Implement basic game rules as a program._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
