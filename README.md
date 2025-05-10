@@ -237,6 +237,10 @@ _Create animations for beginners._
 
 _Implement basic game rules as a program._
 
+### **Project 60, Rock Paper Scissors (Always-Win Version):** A version of the game where the player cannot lose.
+
+_Create the illusion of randomness in a program._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
