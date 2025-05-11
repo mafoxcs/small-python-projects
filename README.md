@@ -241,6 +241,10 @@ _Implement basic game rules as a program._
 
 _Create the illusion of randomness in a program._
 
+### **Project 61, ROT13 Cipher:** The simplest cipher for encrypting and decrypting text.
+
+_Convert between letters and numbers to perform math on text._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
