@@ -245,6 +245,10 @@ _Create the illusion of randomness in a program._
 
 _Convert between letters and numbers to perform math on text._
 
+### **Project 62, Rotating Cube:** A rotating cube animation.
+
+_Learn 3D rotation and line drawing algorithms._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
