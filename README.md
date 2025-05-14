@@ -249,6 +249,10 @@ _Convert between letters and numbers to perform math on text._
 
 _Learn 3D rotation and line drawing algorithms._
 
+### **Project 63, Royal Game of Ur:** A 5,000-year old game from Mesopotamia.
+
+_Use ASCII art and string templates to draw a board game._
+
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
