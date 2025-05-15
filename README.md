@@ -256,3 +256,7 @@ _Use ASCII art and string templates to draw a board game._
 ### **Project 64, Seven-Segment Display Module:** A display like those used in calculators and microwave ovens.
 
 _Create modules for use in other programs._
+
+### **Project 65, Shining Carpet:** Programmatically generate the carpet from The Shining.
+
+_Use loops to make repeating text patterns._
