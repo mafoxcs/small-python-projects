@@ -260,3 +260,7 @@ _Create modules for use in other programs._
 ### **Project 65, Shining Carpet:** Programmatically generate the carpet from The Shining.
 
 _Use loops to make repeating text patterns._
+
+### **Project 66, Simple Substitution Cipher:** An encryption scheme more advanced than the Caesar cipher.
+
+_Perform intermediate math on text._
