@@ -264,3 +264,7 @@ _Use loops to make repeating text patterns._
 ### **Project 66, Simple Substitution Cipher:** An encryption scheme more advanced than the Caesar cipher.
 
 _Perform intermediate math on text._
+
+### **Project 67, Sine Message:** Display a scrolling wave message.
+
+_Use a trigonometry function for animation._
