@@ -268,3 +268,7 @@ _Perform intermediate math on text._
 ### **Project 67, Sine Message:** Display a scrolling wave message.
 
 _Use a trigonometry function for animation._
+
+### **Project 68, Sliding Tile Puzzle:** The classic four-by-four tile puzzle.
+
+_Employ a data structure to reflect the state of a game board._
