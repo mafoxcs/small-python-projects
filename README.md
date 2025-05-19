@@ -272,3 +272,7 @@ _Use a trigonometry function for animation._
 ### **Project 68, Sliding Tile Puzzle:** The classic four-by-four tile puzzle.
 
 _Employ a data structure to reflect the state of a game board._
+
+### **Project 69, Snail Race:** Fast-paced snail racing action.
+
+_Calculate spacing for ASCII art snails._
