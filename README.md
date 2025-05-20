@@ -276,3 +276,7 @@ _Employ a data structure to reflect the state of a game board._
 ### **Project 69, Snail Race:** Fast-paced snail racing action.
 
 _Calculate spacing for ASCII art snails._
+
+### **Project 70, Soroban Japanese Abacus:** A computer simulation of a pre-computer calculating tool.
+
+_Use string templates to create an ASCII-art counting tool._
