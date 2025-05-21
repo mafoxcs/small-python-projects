@@ -280,3 +280,7 @@ _Calculate spacing for ASCII art snails._
 ### **Project 70, Soroban Japanese Abacus:** A computer simulation of a pre-computer calculating tool.
 
 _Use string templates to create an ASCII-art counting tool._
+
+### **Project 71, Sound Mimic:** Memorize an increasingly long pattern of sounds.
+
+_Play sound files from a Python program._
