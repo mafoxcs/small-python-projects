@@ -284,3 +284,7 @@ _Use string templates to create an ASCII-art counting tool._
 ### **Project 71, Sound Mimic:** Memorize an increasingly long pattern of sounds.
 
 _Play sound files from a Python program._
+
+### **Project 72, sPoNgEcAsE:** Translates English messages into sPOnGEcAsE.
+
+_Change the casting of letters in strings._
