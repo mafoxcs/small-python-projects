@@ -292,3 +292,7 @@ _Change the casting of letters in strings._
 ### **Project 73, Sudoku Puzzle:** The classic nine-by-nine newspaper deduction puzzle.
 
 _Model a puzzle with a data structure._
+
+### **Project 74, Text-to-Speech Talker:** Make your computer talk to you!
+
+_Use your operating system's text-to-speech engine._
