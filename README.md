@@ -296,3 +296,7 @@ _Model a puzzle with a data structure._
 ### **Project 74, Text-to-Speech Talker:** Make your computer talk to you!
 
 _Use your operating system's text-to-speech engine._
+
+### **Project 75, Three-Card Monte:** The tricky fast-swapping card game that scammers play on tourists.
+
+_Manipulate a data structure based on random movements._
