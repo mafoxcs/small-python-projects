@@ -300,3 +300,7 @@ _Use your operating system's text-to-speech engine._
 ### **Project 75, Three-Card Monte:** The tricky fast-swapping card game that scammers play on tourists.
 
 _Manipulate a data structure based on random movements._
+
+### **Project 76, Tic-Tac-Toe:** The classic two-player board game of Xs and Os.
+
+_Create a data structure and helper functions._
