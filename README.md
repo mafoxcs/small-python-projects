@@ -304,3 +304,7 @@ _Manipulate a data structure based on random movements._
 ### **Project 76, Tic-Tac-Toe:** The classic two-player board game of Xs and Os.
 
 _Create a data structure and helper functions._
+
+### **Project 77, Tower of Hanoi:** The classic disk-stacking puzzle.
+
+_Use stack data structures to simulate a puzzle state._
