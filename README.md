@@ -308,3 +308,7 @@ _Create a data structure and helper functions._
 ### **Project 77, Tower of Hanoi:** The classic disk-stacking puzzle.
 
 _Use stack data structures to simulate a puzzle state._
+
+### **Project 78, Trick Questions:** A quiz of simple questions with misleading answers.
+
+_Parse the user's text to recognize keywords._
