@@ -312,3 +312,7 @@ _Use stack data structures to simulate a puzzle state._
 ### **Project 78, Trick Questions:** A quiz of simple questions with misleading answers.
 
 _Parse the user's text to recognize keywords._
+
+### **Project 79, Twenty Forty-Eight:** A casual tile matching game.
+
+_Simulate gravity to make tiles "fall" in arbitrary directions._
