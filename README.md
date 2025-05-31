@@ -316,3 +316,7 @@ _Parse the user's text to recognize keywords._
 ### **Project 79, Twenty Forty-Eight:** A casual tile matching game.
 
 _Simulate gravity to make tiles "fall" in arbitrary directions._
+
+### **Project 80, Vigenère Cipher:** An encryption scheme so advanced it remained unbreakable for hundreds of years until computers were invented.
+
+_Perform more advanced math on text._
