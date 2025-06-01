@@ -320,3 +320,7 @@ _Simulate gravity to make tiles "fall" in arbitrary directions._
 ### **Project 80, Vigenère Cipher:** An encryption scheme so advanced it remained unbreakable for hundreds of years until computers were invented.
 
 _Perform more advanced math on text._
+
+### **Project 81, Water Bucket Puzzle:** Obtain exactly four liters of water by filling and emptying three buckets.
+
+_Use string templates to generate ASCII art._
